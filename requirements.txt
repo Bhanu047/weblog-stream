@@ -1,0 +1,2 @@
+# Spark 4 requires Java 17 or later.
+pyspark>=4.0

@@ -1,0 +1,4 @@
+# Only needed to publish to a real broker. The file-source path and the
+# tests do not require it.
+-r requirements.txt
+kafka-python>=2.0
